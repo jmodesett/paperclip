@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .env
+docker-compose.override.yml
 *.tsbuildinfo
 drizzle/meta/
 .vite/
